@@ -1,6 +1,6 @@
-# Festivos LATAM: privacidad y soporte
+# Festivos Iberoamérica: privacidad y soporte
 
-Sitio público de política de privacidad, soporte y `app-ads.txt` para Festivos LATAM.
+Sitio público de política de privacidad, soporte y `app-ads.txt` para Festivos Iberoamérica.
 
 - Privacidad: https://steveazul87.github.io/festivos-latam-privacy/
 - Soporte: https://steveazul87.github.io/festivos-latam-privacy/support.html
